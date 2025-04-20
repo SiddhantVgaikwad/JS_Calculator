@@ -3,6 +3,8 @@
 A sleek, responsive calculator with modern UI/UX design built with HTML, CSS, and JavaScript.
 
 ![Calculator Screenshot](./screenshot.png) <!-- Add your screenshot file -->
+![image](https://github.com/user-attachments/assets/f618c636-a6d0-4abc-b797-f16adbad00c0)
+
 
 ## Features
 
